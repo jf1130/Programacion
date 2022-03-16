@@ -1,0 +1,9 @@
+numero= input('Escriba un numero')
+def num_inteligente(num =2)
+  if n >= num;
+  print("Es un numero inteligente")
+  elif num =0;
+  print("No es un numero inteligente")
+  else:
+    print("error")
+  
